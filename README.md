@@ -1,4 +1,4 @@
-# Go.mode
+# go.mode
 
 A Go syntax coloring mode for Coda 2.5 and SubEthaEdit. Installation should be ensuring the top-level folder is named "Go.mode" and double-clicking to install in Coda 2.5.
 
