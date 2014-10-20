@@ -33,6 +33,29 @@
         <string>type</string>
         <string>var</string>
       </keywords>
+      <keywords id="TypeKeywords" useforautocomplete="yes" scope="keyword.type">
+        <string>bool</string>
+        <string>uint8</string>
+        <string>uint16</string>
+        <string>uint32</string>
+        <string>uint64</string>
+        <string>int8</string>
+        <string>int16</string>
+        <string>int32</string>
+        <string>int64</string>
+        <string>float32</string>
+        <string>float64</string>
+        <string>complex64</string>
+        <string>complex128</string>
+        <string>uint</string>
+        <string>int</string>
+        <string>uintptr</string>
+        <string>byte</string>
+        <string>iota</string>
+        <string>rune</string>
+        <string>string</string>
+        <string>nil</string>
+      </keywords>
       <keywords id="Numbers" scope="constant.numeric">
         <regex>(?&lt;![\w\d\._])((?:(?:(?:[0-9]+\.[0-9]*)|(\.[0-9]+))(?:[eE][+\-]?[0-9]+)?[fFlL]?)|(?:(?:(?:[1-9][0-9]*)|0(?:[1-7][0-7]*)?|(?:0[xX][0-9a-fA-F]+))(?:(?:[uU][lL]?)|(?:[lL][uU]?))?))(?![\w\d\._])</regex>
       </keywords>

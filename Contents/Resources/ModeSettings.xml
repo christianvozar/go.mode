@@ -2,6 +2,6 @@
 <!DOCTYPE syntax SYSTEM "settings.dtd">
 <settings>
   <recognition>
-    <filename>go</filename>
+    <extension>go</extension>
   </recognition>
 </settings>

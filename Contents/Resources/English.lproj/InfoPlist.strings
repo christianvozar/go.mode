@@ -1,4 +1,4 @@
 CFBundleName = "Go";
 CFBundleShortVersionString = "";
-CFBundleGetInfoString = "Go Mode 1.0, Copyright 2013";
-NSHumanReadableCopyright = "© 2013 Christian Vozar";
+CFBundleGetInfoString = "Go Mode 1.5, Copyright 2014";
+NSHumanReadableCopyright = "© 2014 Rogue Ethic, LLC.";
