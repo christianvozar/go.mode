@@ -3,5 +3,6 @@
 <settings>
   <recognition>
     <extension>go</extension>
+    <regex>\A&lt;\?go</regex>
   </recognition>
 </settings>

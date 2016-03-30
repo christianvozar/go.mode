@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleGetInfoString</key>
-	<string>Rogue Ethic</string>
+	<string>1.6 Christian R. Vozar</string>
 	<key>CodaAuthorString</key>
-	<string>Rogue Ethic</string>
+	<string>Christian R. Vozar</string>
 	<key>CodaDescriptionString</key>
 	<string>Go language syntax highlighting mode for Coda 2.x</string>
 	<key>CFBundleIdentifier</key>
@@ -17,13 +17,12 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.5</string>
+	<string>1.6</string>
 	<key>CFBundleVersion</key>
-	<string>1.5</string>
+	<string>1.6</string>
 	<key>SEEMinimumEngineVersion</key>
 	<string>3.5</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Rogue Ethic
-http://rogueethic.com</string>
+	<string>© 2016 Christian R. Vozar</string>
 </dict>
 </plist>
